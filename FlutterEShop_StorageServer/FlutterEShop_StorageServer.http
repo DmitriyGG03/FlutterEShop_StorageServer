@@ -1,0 +1,6 @@
+@FlutterEShop_StorageServer_HostAddress = https://localhost:5077
+
+GET {{FlutterEShop_StorageServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

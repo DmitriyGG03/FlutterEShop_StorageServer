@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FlutterEShop_StorageServer.props" />
+</Project>
